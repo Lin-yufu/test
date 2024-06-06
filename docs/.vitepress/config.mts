@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "123",
+  base:"/test/",
   description: "123",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
